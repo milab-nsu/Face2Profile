@@ -2,7 +2,7 @@
 
 **Face2Profile** is a benchmark dataset and evaluation framework for generating identity-rich textual summaries from multimodal inputs (such as facial images and textual links). It provides a novel challenge for evaluating how well language models can synthesize coherent, biographical summaries using limited structured and unstructured information.
 
----
+----
 
 ## 🌟 Project Highlights
 
