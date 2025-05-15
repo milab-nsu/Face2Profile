@@ -59,7 +59,7 @@ If you use this project or dataset in your research, please cite:
   title={Face2Profile: A Benchmark for Identity-Rich Summary Generation},
   author={Your Name and Collaborators},
   year={2025},
-  url={https://github.com/your-repo-link}
+  url={hhttps://github.com/milab-nsu/Face2Profile}
 }
 ```
 
@@ -69,7 +69,7 @@ If you use this project or dataset in your research, please cite:
 
 For questions, ideas, or collaboration inquiries, please reach out:
 
-- 📧 Email: mohibur.nabil@northsouth.edu
+- 📧 Email: <Will be added later>
 
 
 ---
