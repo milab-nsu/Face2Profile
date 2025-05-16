@@ -16,7 +16,7 @@
 
 ##  Dataset Link
 
-HuggingFace Dataset Link: [Face2Profile Dataset](h[ttps://dummy-link.com](https://huggingface.co/datasets/milab12/face2profile)) 🚀  
+HuggingFace Dataset Link: [Face2Profile Dataset](h[ttps://dummy-link.com](https://huggingface.co/datasets/milab12/face2profile) 🚀  
 
 ---
 
